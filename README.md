@@ -1,5 +1,3 @@
-# My Projects
-
 ## Chess
 Projects started over the course of writing chess engines:
 - [akimbo](https://github.com/JacquesRW/akimbo) - UCI compatible chess and chess960 engine.
